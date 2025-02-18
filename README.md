@@ -6,7 +6,7 @@ Hi! I'm **Mehmet Biyik**, a **System Test Engineer** specializing in **automatio
 
 ### 📄 Resume Preview
 
-[Click here to view my final project]([docs/Mehmet_Biyik_Final_Project.pdf](https://github.com/MehmetEminHan/docs-/blob/main/Mehmet_Biyik_Final_Project.pdf))
+[Click here to view my final project](Mehmet_Biyik_Final_Project.pdf))
 
 Or preview it below:
 

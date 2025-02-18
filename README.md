@@ -6,4 +6,4 @@ Hi! I'm **Mehmet Biyik**, a **System Test Engineer** specializing in **automatio
 
 ### 📄 Suleyman Demirel University Final Project 
 
-[Click here to view my final project]((Mehmet_Biyik_Final_Project.pdf))
+[Click here to view my final project](Mehmet_Biyik_Final_Project.pdf)
